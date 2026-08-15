@@ -1,6 +1,9 @@
 Hi, I'm Tio 👋
 
-🎓 CS Undergraduate (online program) at Binus University 🤖 Learning to become an AI / Machine Learning Engineer 💼 Balancing full-time work with my studies 🌱 Currently self-studying Python and C through YouTube
+🎓 CS Undergraduate (online program) at Binus University 
+🤖 Learning to become an AI / Machine Learning Engineer
+💼 Balancing full-time work with my studies 
+🌱 Currently self-studying Python and C through YouTube
 
 🚀 Currently Working On
 
