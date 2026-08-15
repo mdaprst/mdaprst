@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Tio 👋
 
-<!--
-**mdaprst/mdaprst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS Undergraduate (online program) at Binus University 🤖 Learning to become an AI / Machine Learning Engineer 💼 Balancing full-time work with my studies 🌱 Currently self-studying Python and C through YouTube
 
-Here are some ideas to get you started:
+🚀 Currently Working On
+🔨 Building my first project: an ordering/booking web app
+📚 Strengthening my fundamentals in Python & C
+🎯 Long-term goal: build a career in AI/ML
+🛠️ Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contact
+GitHub: @mdaprst
+
+⭐️ "Every line of code is one step closer to the goal."
